@@ -90,12 +90,6 @@ python HypeSquadManager.py
 
 ---
 
-## 👨‍💻 Author
-
-**ShaB7Xx**
-
----
-
 ## 📄 License
 
 Free to use, modify, and share.
@@ -109,4 +103,11 @@ You must:
 
 ## ⭐ Support
 
-If you like the project, consider giving it a ⭐ on GitHub!
+If you like the project, consider giving it a ⭐ on GitHub! :)
+
+---
+
+## 👨‍💻 Author
+
+**ShaB7Xx**
+

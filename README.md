@@ -92,7 +92,7 @@ python HypeSquadManager.py
 
 ## 📄 License
 
-Free to use, modify, and share.
+Free to use and share.
 
 You must:
 
